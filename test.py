@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Your WhatsApp number and message
-target_number = "9746655433"  # Change this to the recipient's WhatsApp number
+target_number = ""  # Change this to the recipient's WhatsApp number
 message = "Hello! This is an automated message from Selenium."
 
 # Set up Selenium WebDriver (Make sure ChromeDriver is installed)
